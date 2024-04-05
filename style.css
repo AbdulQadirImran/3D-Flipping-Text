@@ -8,6 +8,7 @@ body{
 	align-items: center;
 	justify-content: center;
 }
+
 .loader{
 	-webkit-perspective:700px;
 	perspective: 700px;
